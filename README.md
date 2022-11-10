@@ -8,7 +8,7 @@
   </a>
   </div>
 - 👋 Hi, I’m @Dhani109
-- 👀 I’m interested in Data Analytics and Front-End Development 
+- 👀 I’m interested in Data Analytics and Web Development 
 - 🌱 I’m currently learning SQL, TABLEAU, HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on data visualizaton and analysis
 - 📫 you can reach me at wardh001@umn.edu
